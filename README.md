@@ -59,7 +59,7 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Adbhutha10/BVRIT-Connect.git
+   git clone https://github.com/SaiSree-prog/BVRIT-Connect.git
    cd BVRIT-Connect
    ```
 
